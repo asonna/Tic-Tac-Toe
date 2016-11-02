@@ -1,0 +1,19 @@
+.col-md-3 {
+  border: solid 1px black;
+}
+
+img {
+  width: 100%;
+}
+
+/*.blank {
+  display: none;
+}*/
+
+.x {
+  display: none;
+}
+
+.o {
+  display: none;
+}
